@@ -1,0 +1,6 @@
+﻿  ConsoleApplication2.cpp
+ConsoleApplication2.obj : error LNK2019: ссылка на неразрешенный внешний символ "struct Elem * __cdecl new_node(int,struct Elem * &)" (?new_node@@YAPEAUElem@@HAEAPEAU1@@Z) в функции main.
+ConsoleApplication2.obj : error LNK2019: ссылка на неразрешенный внешний символ "void __cdecl print_nodes(struct Elem const *)" (?print_nodes@@YAXPEBUElem@@@Z) в функции main.
+ConsoleApplication2.obj : error LNK2019: ссылка на неразрешенный внешний символ "void __cdecl r_shift(struct Elem * &)" (?r_shift@@YAXAEAPEAUElem@@@Z) в функции main.
+ConsoleApplication2.obj : error LNK2019: ссылка на неразрешенный внешний символ "void __cdecl del_nodes(struct Elem * &)" (?del_nodes@@YAXAEAPEAUElem@@@Z) в функции main.
+C:\Users\alina\source\repos\ConsoleApplication2\x64\Debug\ConsoleApplication2.exe : fatal error LNK1120: неразрешенных внешних элементов: 4
